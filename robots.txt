@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wen829956xin.github.io//sitemap.xml
